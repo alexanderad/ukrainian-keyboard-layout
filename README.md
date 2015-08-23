@@ -1,13 +1,14 @@
-# Ukrainian PC Layout
+# Українська PC розкладка
+Така, де кома, крапка і літера "б" на своїх справжніх PC місцях.
 
+![](images/layout.png?raw=true)
 
+## Як встановити
 
-## Install
-
-Open Terminal and type following:
+В Терміналі:
 
     $ curl ...
     $ unzip ukrainian-keyboard-layout.zip
 
-## Credits
-Forked from [bluezbox/ukrainian/pc](http://bluezbox.com/uapc.html).
+## Кредітс
+Форк [bluezbox/ukrainian/pc](http://bluezbox.com/uapc.html).
